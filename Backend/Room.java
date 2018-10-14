@@ -18,6 +18,8 @@ public class Room {
 		//histogram = new Glyph();
 		roomNumber = num;
 		capacity = cap;
+		if (capacity == 0)
+			capacity = 1;
 		occupancy = occ;
 		percentOccupied = occ / cap;
 	}

@@ -25,11 +25,10 @@ public class DummyData {
 		System.out.println(numBuildings);
 		Building[] buildings = new Building[numBuildings];
 		for (int i = 0; i < numBuildings; i++) {
-			int currB = i+1;
+			int currB = Integer.parseInt(sc.nextLine());
 			System.out.println(currB);
 			
 			String buildingName = sc.nextLine();
-			System.out.println(buildingName);
 			int numFloors = Integer.parseInt(sc.nextLine());
 			buildings[i] = new Building(buildingName, numFloors); //**
 			System.out.println(buildings[i].getName());
@@ -45,10 +44,25 @@ public class DummyData {
 					int numRooms = Integer.parseInt(sc.nextLine());
 					Room[] rooms = new Room[numRooms];
 					for (int k = 0; k < numRooms; k++) {
-						String roomNumber = sc.nextLine();
-						rooms[0].setRoomNumber(roomNumber);
+						String roomLine = sc.nextLine();
+						String roomNumber = roomLine.substring(0, roomLine.indexOf(','));
+						String capacityStr = roomLine.substring(roomLine.lastIndexOf(',') + 1);
+
+						System.out.println("cap: " + capacityStr);
+						capacityStr = capacityStr.substring(1);
+						int capacity = Integer.parseInt(capacityStr);
+						
+						double occ = Math.random() * capacity;
+						int occupancy = (int) Math.round(occ);
+						System.out.println("HEY: " + capacity + " " + occupancy);
+						rooms[k] = new Room(roomNumber, capacity, occupancy);
+
+						System.out.println(roomNumber + ", " + buildingName + ", " +
+								capacity + ", " + occupancy);
 					}
-					buildings[i].getFloors()[j].setRooms(rooms);
+					buildings[i].getFloors()[j-1] = new Floor(j, rooms);
+					// Floor has "floor number" field, doesn't need to be decremented 
+					//buildings[i].getFloors()[j].setRooms(rooms);
 				}
 			}
 			

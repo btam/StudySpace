@@ -94,7 +94,7 @@ Mcbryde Hall
 Randolph Hall
 3
 1
-13
+12
 100L, Randolph Hall, 30
 110, Randolph Hall, 42
 114E, Randolph Hall, 49
@@ -102,7 +102,6 @@ Randolph Hall
 120, Randolph Hall, 42
 121, Randolph Hall, 35
 129, Randolph Hall, 49
-142, Randolph Hall, 0
 146, Randolph Hall, 18
 148, Randolph Hall, 18
 150, Randolph Hall, 18

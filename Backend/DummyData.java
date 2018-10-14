@@ -42,21 +42,19 @@ public class DummyData {
 				else {
 					System.out.println(currFloor);
 					int numRooms = Integer.parseInt(sc.nextLine());
+					System.out.println(numRooms);
 					Room[] rooms = new Room[numRooms];
 					for (int k = 0; k < numRooms; k++) {
 						String roomLine = sc.nextLine();
 						String roomNumber = roomLine.substring(0, roomLine.indexOf(','));
 						String capacityStr = roomLine.substring(roomLine.lastIndexOf(',') + 1);
 
-						System.out.println("cap: " + capacityStr);
 						capacityStr = capacityStr.substring(1);
 						int capacity = Integer.parseInt(capacityStr);
 						
 						double occ = Math.random() * capacity;
 						int occupancy = (int) Math.round(occ);
-						System.out.println("HEY: " + capacity + " " + occupancy);
 						rooms[k] = new Room(roomNumber, capacity, occupancy);
-
 						System.out.println(roomNumber + ", " + buildingName + ", " +
 								capacity + ", " + occupancy);
 					}

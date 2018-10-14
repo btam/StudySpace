@@ -108,7 +108,7 @@ Randolph Hall
 154, Randolph Hall, 18
 156, Randolph Hall, 18
 2
-19
+18
 206, Randolph Hall, 36
 206A, Randolph Hall, 32
 208, Randolph Hall, 40

@@ -5,11 +5,11 @@ The app itself contains a map of the college campus, a list of all available bui
 
 ## Project Screen Shot(s)
 
-<img src="https://github.com/numankh/StudySpace/blob/NavBarActivites/mainscreen.jpg" width="160">
-<img src="https://github.com/numankh/StudySpace/blob/NavBarActivites/sidebar.jpg" width="160">
-<img src="https://github.com/numankh/StudySpace/blob/NavBarActivites/createalertscreen.jpg" width="160">
-<img src="https://github.com/numankh/StudySpace/blob/NavBarActivites/map.jpg" width="160">
-<img src="https://github.com/numankh/StudySpace/blob/NavBarActivites/codescreenshot.jpg" width="160">
+<img src="https://github.com/numankh/StudySpace/blob/NavBarActivites/mainscreen.jpg" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;" width="160">
+<img src="https://github.com/numankh/StudySpace/blob/NavBarActivites/sidebar.jpg" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;" width="160">
+<img src="https://github.com/numankh/StudySpace/blob/NavBarActivites/createalertscreen.jpg" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;" width="160">
+<img src="https://github.com/numankh/StudySpace/blob/NavBarActivites/map.jpg" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;" width="160">
+<img src="https://github.com/numankh/StudySpace/blob/NavBarActivites/codescreenshot.jpg" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;" width="160">
 
 
 ## Reflection

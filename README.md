@@ -6,7 +6,7 @@ The app itself contains a map of the college campus, a list of all available bui
 ## Project Screen Shot(s)
 
 <img src="https://github.com/numankh/StudySpace/blob/NavBarActivites/firstfour.jpg" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
-<img src="https://github.com/numankh/StudySpace/blob/NavBarActivites/codescreenshot.jpg" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;" width="160">
+<img src="https://github.com/numankh/StudySpace/blob/NavBarActivites/codescreenshot.jpg" style="float: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;" width="640">
 
 
 ## Reflection

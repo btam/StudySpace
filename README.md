@@ -5,20 +5,15 @@ The app itself contains a map of the college campus, a list of all available bui
 
 ## Project Screen Shot(s)
 
-#### Example:   
-
 ![alt text](https://github.com/numankh/StudySpace/screenshot1.jpg)
 
 ![alt text](https://github.com/numankh/StudySpace/screenshot2.jpg)
 
 ## Reflection
 
-  - What was the context for this project? (ie: was this a side project? was this for Turing? was this for an experiment?)
-  - What did you set out to build?
-  - Why was this project challenging and therefore a really good learning experience?
-  - What were some unexpected obstacles?
-  - What tools did you use to implement this project?
-      - This might seem obvious because you are IN this codebase, but to all other humans now is the time to talk about why you chose webpack instead of create react app, or D3, or vanilla JS instead of a framework etc. Brag about your choices and justify them here.  
+  - This app will help student’s save spend less time wandering the library looking for seats, and more time studying for the midterm or final that they’re worried about. 
+  - Although we used laser gates to calculate the population in each room, we recognize that it’s not a perfect solution and other alternatives exist, such as utilizing IR sensors or an Xbox Kinect to count how many bodies are in the room
+  - In addition, more features can be added to the app, such as noise level, wifi quality, and outlet coverage. 
 
 ## Authors
 
@@ -27,5 +22,3 @@ The app itself contains a map of the college campus, a list of all available bui
 * **Jerry Lin**
 * **Numan Khan**
 * **Sameer Dandekar**
-
-

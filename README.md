@@ -5,9 +5,8 @@ The app itself contains a map of the college campus, a list of all available bui
 
 ## Project Screen Shot(s)
 
-![alt text](https://github.com/numankh/StudySpace/screenshot1.jpg)
+![Some of the backend code](https://github.com/numankh/StudySpace/screenshot1.jpg)
 
-![alt text](https://github.com/numankh/StudySpace/screenshot2.jpg)
 
 ## Reflection
 

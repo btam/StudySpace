@@ -3,7 +3,7 @@
 A quick and easy tool designed for college students to find a study space on campus by calculating the population in each room via laser gate sensors. 
 The app itself contains a map of the college campus, a list of all available buildings and room on campus, and an alert system to notify the user when a room they've requested has reached a certain occupancy.
 
-## Project Screenshot
+## Project Screenshots
 
 <img src="https://github.com/numankh/StudySpace/blob/NavBarActivites/firstfour.jpg" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
 <img src="https://github.com/numankh/StudySpace/blob/NavBarActivites/codescreenshot.jpg" width="640">

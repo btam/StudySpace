@@ -9,9 +9,13 @@
             android:icon="@drawable/ic_menu_camera"
             android:title="Buildings" />
         <item
-            android:id="@+id/nav_alerts"
+            android:id="@+id/nav_addAlerts"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Add Alerts" />
+        <item
+            android:id="@+id/nav_viewAlerts"
             android:icon="@drawable/ic_add_alert_black"
-            android:title="Manage Alerts" />
+            android:title="View Alerts" />
     </group>
 
 

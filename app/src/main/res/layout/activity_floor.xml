@@ -19,7 +19,7 @@
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="55dp"
-        android:text="McBryde Hall       >" />
+        android:text="FLOOR 1       >" />
 
     <Button
         android:id="@+id/button4"
@@ -28,7 +28,7 @@
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="126dp"
-        android:text="New Classroom Building       >" />
+        android:text="FLOOR 2       >" />
 
     <Button
         android:id="@+id/button5"
@@ -37,6 +37,6 @@
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="201dp"
-        android:text="Randolph Hall       >" />
+        android:text="FLOOR 3       >" />
 
 </RelativeLayout>

@@ -1,0 +1,135 @@
+3
+1
+Classroom Building
+3
+1
+7
+110A, Classroom Building, 40
+110B, Classroom Building, 40
+120, Classroom Building, 99
+130A, Classroom Building, 40
+130B, Classroom Building, 40
+160, Classroom Building, 140
+170, Classroom Building, 80
+2
+7
+210, Classroom Building, 72
+220, Classroom Building, 99
+230, Classroom Building, 72
+250, Classroom Building, 76
+260A, Classroom Building, 76
+260B, Classroom Building, 76
+270, Classroom Building, 72
+3
+6
+310, Classroom Building, 36
+320, Classroom Building, 144
+330, Classroom Building, 36
+350, Classroom Building, 36
+360, Classroom Building, 152
+370, Classroom Building, 36
+2
+Mcbryde Hall
+6
+1
+10
+100, Mcbryde Hall, 540
+106, Mcbryde Hall, 51
+106A, Mcbryde Hall, 12
+110, Mcbryde Hall, 34
+113, Mcbryde Hall, 92
+116, Mcbryde Hall, 15
+124, Mcbryde Hall, 19
+126, Mcbryde Hall, 49
+129, Mcbryde Hall, 88
+134, Mcbryde Hall, 40
+2
+18
+202, Mcbryde Hall, 25
+204, Mcbryde Hall, 28
+207, Mcbryde Hall, 15
+209, Mcbryde Hall, 49
+210, Mcbryde Hall, 28
+212, Mcbryde Hall, 21
+216, Mcbryde Hall, 34
+218, Mcbryde Hall, 40
+219, Mcbryde Hall, 24
+223, Mcbryde Hall, 30
+224, Mcbryde Hall, 40
+226, Mcbryde Hall, 40
+230, Mcbryde Hall, 40
+231, Mcbryde Hall, 40
+232, Mcbryde Hall, 40
+233, Mcbryde Hall, 35
+238, Mcbryde Hall, 40
+240, Mcbryde Hall, 40
+3
+12
+302, Mcbryde Hall, 36
+304, Mcbryde Hall, 40
+307, Mcbryde Hall, 43
+308, Mcbryde Hall, 39
+316, Mcbryde Hall, 35
+318, Mcbryde Hall, 40
+321, Mcbryde Hall, 45
+322, Mcbryde Hall, 39
+328, Mcbryde Hall, 38
+329, Mcbryde Hall, 39
+332, Mcbryde Hall, 41
+334, Mcbryde Hall, 17
+4
+2
+455, Mcbryde Hall, 49
+475, Mcbryde Hall, 8
+5
+3
+558, Mcbryde Hall, 15
+563, Mcbryde Hall, 17
+566, Mcbryde Hall, 20
+6
+2
+658, Mcbryde Hall, 20
+666, Mcbryde Hall, 20
+3
+Randolph Hall
+3
+1
+12
+100L, Randolph Hall, 30
+110, Randolph Hall, 42
+114E, Randolph Hall, 49
+116, Randolph Hall, 42
+120, Randolph Hall, 42
+121, Randolph Hall, 35
+129, Randolph Hall, 49
+146, Randolph Hall, 18
+148, Randolph Hall, 18
+150, Randolph Hall, 18
+154, Randolph Hall, 18
+156, Randolph Hall, 18
+2
+19
+206, Randolph Hall, 36
+206A, Randolph Hall, 32
+208, Randolph Hall, 40
+209, Randolph Hall, 36
+210, Randolph Hall, 36
+211, Randolph Hall, 36
+212, Randolph Hall, 36
+216, Randolph Hall, 34
+217-04, Randolph Hall, 30
+217-05, Randolph Hall, 7
+217-06, Randolph Hall, 8
+217-07, Randolph Hall, 6
+217-08, Randolph Hall, 7
+217-09, Randolph Hall, 10
+220, Randolph Hall, 43
+221, Randolph Hall, 80
+222, Randolph Hall, 40
+224A, Randolph Hall, 5
+3
+4
+316, Randolph Hall, 36
+318, Randolph Hall, 44
+320, Randolph Hall, 45
+331, Randolph Hall, 64

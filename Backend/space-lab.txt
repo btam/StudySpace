@@ -1,0 +1,493 @@
+100, Wood Processing Lab, 8
+116B, Wood Processing Lab, 30
+118, Wood Engineering Lab, 10
+203, Williams Hall, 30
+174, Whittemore Hall, 21
+174B, Whittemore Hall, 7
+174F, Whittemore Hall, 5
+174G, Whittemore Hall, 5
+215, Whittemore Hall, 4
+219, Whittemore Hall, 16
+220, Whittemore Hall, 12
+222, Whittemore Hall, 28
+223, Whittemore Hall, 4
+255, Whittemore Hall, 20
+267, Whittemore Hall, 25
+422, Whittemore Hall, 5
+430A, Whittemore Hall, 13
+619, Whittemore Hall, 24
+675, Whittemore Hall, 7
+2, Washington-Alexandria Architecture Center, 0
+220K, War Memorial Gymnasium, 20
+301, War Memorial Gymnasium, 30
+120, Wallace Hall, 4
+122, Wallace Hall, 0
+124, Wallace Hall, 0
+124A, Wallace Hall, 2
+125, Wallace Hall, 24
+127, Wallace Hall, 33
+128, Wallace Hall, 21
+130, Wallace Hall, 20
+233, Wallace Hall, 26
+246, Wallace Hall, 20
+247, Wallace Hall, 20
+332, Wallace Hall, 24
+333, Wallace Hall, 10
+402, Wallace Hall, 10
+403, Wallace Hall, 20
+405, Wallace Hall, 22
+408, Wallace Hall, 5
+102, Vtti Building Addition, 0
+1115, Vt Knowledgeworks Ii, 5
+1117, Vt Knowledgeworks Ii, 5
+1120, Vt Knowledgeworks Ii, 7
+1132, Vt Knowledgeworks Ii, 7
+1133, Vt Knowledgeworks Ii, 7
+1136, Vt Knowledgeworks Ii, 5
+1139, Vt Knowledgeworks Ii, 3
+1155, Vt Knowledgeworks Ii, 7
+2205, Vt Knowledgeworks Ii, 12
+2220, Vt Knowledgeworks Ii, 4
+M209, Vt / Carilion Medical School And Research Institute, 2
+M211, Vt / Carilion Medical School And Research Institute, 50
+M212, Vt / Carilion Medical School And Research Institute, 48
+M333, Vt / Carilion Medical School And Research Institute, 10
+M338, Vt / Carilion Medical School And Research Institute, 8
+M339, Vt / Carilion Medical School And Research Institute, 8
+M340, Vt / Carilion Medical School And Research Institute, 8
+M341, Vt / Carilion Medical School And Research Institute, 8
+M342, Vt / Carilion Medical School And Research Institute, 8
+M343, Vt / Carilion Medical School And Research Institute, 8
+M344, Vt / Carilion Medical School And Research Institute, 8
+M345, Vt / Carilion Medical School And Research Institute, 8
+M349, Vt / Carilion Medical School And Research Institute, 7
+M350, Vt / Carilion Medical School And Research Institute, 8
+M351, Vt / Carilion Medical School And Research Institute, 7
+210B, Virginia Tech Hampton Roads Center, 1
+129, Vet Med Phase 4c [Non-Client Animal], 74
+291, Vet Med Phase 4c [Non-Client Animal], 30
+292, Vet Med Phase 4c [Non-Client Animal], 20
+100, Vet Med Phase 4b, 131
+102, Vet Med Phase 4b, 128
+101, Vet Med Phase 4a [Large Animal Isolation], 2
+102, Vet Med Phase 4a [Large Animal Isolation], 2
+231, Vet Med Phase 3, 8
+232, Vet Med Phase 3, 17
+100, Vet Med Phase 2, 150
+106, Vet Med Phase 2, 21
+107, Vet Med Phase 2, 79
+125A, Vet Med Phase 2, 138
+1100, Torgersen Hall, 56
+1120, Torgersen Hall, 34
+1160, Torgersen Hall, 41
+1180, Torgersen Hall, 16
+3080, Torgersen Hall, 0
+3320, Torgersen Hall, 10
+343, Steger Hall - North Wing, 15
+C06, Steger Center [Villa Maderni], 0
+C14, Steger Center [Villa Maderni], 0
+144, Squires Student Center, 14
+146A, Squires Student Center, 1
+146B, Squires Student Center, 1
+146C, Squires Student Center, 1
+149A, Squires Student Center, 1
+149B, Squires Student Center, 1
+149C, Squires Student Center, 1
+149D, Squires Student Center, 1
+149E, Squires Student Center, 1
+149G, Squires Student Center, 1
+155, Squires Student Center, 5
+157, Squires Student Center, 2
+160, Squires Student Center, 6
+165, Squires Student Center, 15
+167, Squires Student Center, 6
+240, Squires Student Center, 17
+241A, Squires Student Center, 1
+242A, Squires Student Center, 1
+242B, Squires Student Center, 2
+242C, Squires Student Center, 1
+242D, Squires Student Center, 1
+242E, Squires Student Center, 1
+242F, Squires Student Center, 1
+242G, Squires Student Center, 1
+242H, Squires Student Center, 1
+242J, Squires Student Center, 1
+242K, Squires Student Center, 1
+242L, Squires Student Center, 1
+242M, Squires Student Center, 1
+242N, Squires Student Center, 1
+242P, Squires Student Center, 1
+242Q, Squires Student Center, 1
+242R, Squires Student Center, 4
+242S, Squires Student Center, 1
+242T, Squires Student Center, 1
+242U, Squires Student Center, 1
+242V, Squires Student Center, 1
+244, Squires Student Center, 1
+246, Squires Student Center, 1
+247, Squires Student Center, 2
+249, Squires Student Center, 10
+250, Squires Student Center, 1
+252, Squires Student Center, 1
+B44, Squires Student Center, 1
+203, Southgate Center, 0
+109, Sochinski-Mckee Marching Virginians Center, 400
+134, Smyth Hall, 6
+248, Smyth Hall, 20
+417E, Smyth Hall, 5
+B45, Smyth Hall, 20
+108, Smith Career Center, 20
+110, Smith Career Center, 16
+116, Smith Career Center, 36
+1, Show Ring And Lecture Hall [Walker Building], 0
+154, Shanks Hall, 8
+233, Shanks Hall, 20
+242, Shanks Hall, 14
+316, Shanks Hall, 12
+380, Shanks Hall, 28
+105, Seitz Hall, 54
+110, Seitz Hall, 10
+110A, Seitz Hall, 35
+112, Seitz Hall, 40
+112B, Seitz Hall, 0
+114, Seitz Hall, 25
+117C, Seitz Hall, 5
+101, Saunders Hall, 24
+103, Saunders Hall, 6
+106, Saunders Hall, 26
+201, Saunders Hall, 19
+204D, Saunders Hall, 10
+406B, Saunders Hall, 15
+1, Satellite Tracking Station, 4
+2, Satellite Tracking Station, 6
+310, Robeson Hall, 20
+316, Robeson Hall, 20
+230, Riverside Center 1, 15
+231, Riverside Center 1, 12
+100L, Randolph Hall, 30
+114E, Randolph Hall, 49
+142, Randolph Hall, 0
+146, Randolph Hall, 18
+148, Randolph Hall, 18
+150, Randolph Hall, 18
+154, Randolph Hall, 18
+156, Randolph Hall, 18
+217-04, Randolph Hall, 30
+217-05, Randolph Hall, 7
+217-06, Randolph Hall, 8
+217-07, Randolph Hall, 6
+217-08, Randolph Hall, 7
+217-09, Randolph Hall, 10
+224A, Randolph Hall, 5
+25, Randolph Hall, 25
+3G, Randolph Hall, 48
+7, Randolph Hall, 21
+7E, Randolph Hall, 18
+9F, Randolph Hall, 13
+9H, Randolph Hall, 1
+9K, Randolph Hall, 2
+103, Price Hall, 3
+103B, Price Hall, 6
+221, Price Hall, 30
+300B, Price Hall, 10
+301A, Price Hall, 30
+101, Pointe West Commons Three, 18
+102, Pointe West Commons Three, 18
+111, Pointe West Commons Three, 17
+112, Pointe West Commons Three, 12
+FG, Pointe West Commons Three, 65
+102A, Pointe West Commons, 0
+104, Pointe West Commons, 25
+104B, Pointe West Commons, 5
+206B, Pointe West Commons, 0
+206C, Pointe West Commons, 0
+206D, Pointe West Commons, 0
+208B, Pointe West Commons, 0
+208C, Pointe West Commons, 0
+208D, Pointe West Commons, 0
+10, Patton Hall, 8
+11, Patton Hall, 25
+17, Patton Hall, 10
+211, Patton Hall, 48
+24, Patton Hall, 20
+315, Patton Hall, 16
+319, Patton Hall, 7
+2008, Pamplin Hall, 52
+2010, Pamplin Hall, 30
+3003D, Pamplin Hall, 1
+3003E, Pamplin Hall, 1
+3003F, Pamplin Hall, 1
+3003G, Pamplin Hall, 1
+3003H, Pamplin Hall, 1
+3003J, Pamplin Hall, 1
+3005, Pamplin Hall, 13
+3069, Pamplin Hall, 1
+2000, Old Grand Piano Building, 100
+1, Observatory, 7
+2, Observatory, 8
+101, North End 460, 50
+05, Norris Hall, 15
+127, Norris Hall, 24
+130, Norris Hall, 1
+133, Norris Hall, 12
+200, Norris Hall, 14
+209, Norris Hall, 29
+227, Norris Hall, 0
+233, Norris Hall, 5
+233D, Norris Hall, 4
+302, Norris Hall, 0
+317, Norris Hall, 13
+319, Norris Hall, 0
+321B, Norris Hall, 3
+325, Norris Hall, 40
+101, Newman Library, 75
+121, Newman Library, 19
+2010, Newman Library, 1
+2031, Newman Library, 7
+2032, Newman Library, 6
+2034, Newman Library, 10
+207A, Newman Library, 46
+3010, Newman Library, 5
+018, New Hall West, 48
+153, Moss Arts Center, 30
+155, Moss Arts Center, 12
+158, Moss Arts Center, 0
+159, Moss Arts Center, 0
+160, Moss Arts Center, 0
+161A, Moss Arts Center, 0
+161B, Moss Arts Center, 0
+169, Moss Arts Center, 198
+253A, Moss Arts Center, 35
+253B, Moss Arts Center, 0
+14B, Mining And Minerals Laboratory, 8
+3, Milking Barn, 0
+104, Military Building / Laundry, 3
+106, Military Building / Laundry, 16
+108, Military Building / Laundry, 13
+109, Military Building / Laundry, 6
+110, Military Building / Laundry, 7
+111, Military Building / Laundry, 9
+112, Military Building / Laundry, 4
+113, Military Building / Laundry, 3
+18, Military Building / Laundry, 4
+215, Military Building / Laundry, 6
+600B, Metro Place Iv, 1
+1, Metal Barn And Lecture Hall [Curtis Building], 0
+198, Mccomas Hall, 0
+106, Mcbryde Hall, 51
+106A, Mcbryde Hall, 12
+110, Mcbryde Hall, 34
+116, Mcbryde Hall, 15
+124, Mcbryde Hall, 19
+334, Mcbryde Hall, 17
+455, Mcbryde Hall, 49
+475, Mcbryde Hall, 8
+558, Mcbryde Hall, 15
+563, Mcbryde Hall, 17
+566, Mcbryde Hall, 20
+100, Math Emporium, 537
+117, Math Emporium, 45
+107, Marion Dupont Scott Equine Medical Center, 0
+100, Major Williams Hall, 15
+102, Major Williams Hall, 24
+215, Major Williams Hall, 8
+225, Major Williams Hall, 15
+416, Major Williams Hall, 4
+418, Major Williams Hall, 5
+504, Major Williams Hall, 6
+1370, Litton-Reaves Hall, 18
+2425, Litton-Reaves Hall, 1
+244, Litton-Reaves Hall, 15
+1, Learning Center Laboratory, 0
+310E, Lavery Hall, 20
+W309, Lane Stadium, 26
+W310, Lane Stadium, 19
+W315, Lane Stadium, 19
+W343, Lane Stadium, 36
+W344, Lane Stadium, 18
+134, Lane Hall, 28
+106, Kroehling Advanced Materials Foundry, 22
+13, Judging Pavilion, 23
+302, Hutcheson Hall, 11
+408, Hutcheson Hall, 15
+108, Human And Agricultural Biosciences Building 1, 35
+111, Holden Hall, 20
+115, Holden Hall, 27
+119, Holden Hall, 19
+119A, Holden Hall, 3
+119B, Holden Hall, 1
+119C, Holden Hall, 2
+120, Holden Hall, 5
+122, Holden Hall, 4
+129A, Holden Hall, 4
+130A, Holden Hall, 6
+130D, Holden Hall, 4
+130E, Holden Hall, 1
+130F, Holden Hall, 1
+134, Holden Hall, 4
+301A, Holden Hall, 8
+307, Holden Hall, 2
+307A, Holden Hall, 5
+122A, Hillcrest Hall, 9
+2, Hillcrest Hall, 6
+106, Henderson Hall, 15
+107, Henderson Hall, 15
+110, Henderson Hall, 3
+110B, Henderson Hall, 2
+112, Henderson Hall, 17
+114, Henderson Hall, 14
+116, Henderson Hall, 4
+205, Henderson Hall, 20
+253, Henderson Hall, 7
+302, Henderson Hall, 12
+308A, Henderson Hall, 1
+308B, Henderson Hall, 1
+308C, Henderson Hall, 1
+310A, Henderson Hall, 1
+310B, Henderson Hall, 1
+310C, Henderson Hall, 1
+314A, Henderson Hall, 1
+314B, Henderson Hall, 1
+314C, Henderson Hall, 1
+318A, Henderson Hall, 1
+318B, Henderson Hall, 1
+318C, Henderson Hall, 1
+321, Henderson Hall, 8
+324, Henderson Hall, 6
+109, Hancock Hall, 8
+109B, Hancock Hall, 8
+210, Hancock Hall, 5
+211, Hancock Hall, 16
+220, Hancock Hall, 40
+112, Hahn Hall - North Wing, 9
+114, Hahn Hall - North Wing, 9
+116, Hahn Hall - North Wing, 9
+118, Hahn Hall - North Wing, 9
+301, Hahn Hall - North Wing, 30
+303, Hahn Hall - North Wing, 3
+305, Hahn Hall - North Wing, 6
+306, Hahn Hall - North Wing, 24
+307, Hahn Hall - North Wing, 6
+309, Hahn Hall - North Wing, 10
+312, Hahn Hall - North Wing, 22
+313, Hahn Hall - North Wing, 12
+314, Hahn Hall - North Wing, 18
+315, Hahn Hall - North Wing, 24
+316, Hahn Hall - North Wing, 45
+401, Hahn Hall - North Wing, 24
+7, Greenhouse, 20
+340, Goodwin Hall, 34
+440, Goodwin Hall, 28
+1, General Purpose Building, 0
+001, Fralin Biotechnology Center, 26
+102, Fralin Biotechnology Center, 94
+104, Food Science And Technology Laboratory, 30
+17, Food Science And Technology Laboratory, 35
+118, Femoyer Hall, 8
+208, Engel Hall, 12
+216, Engel Hall, 13
+152, Durham Hall, 28
+154, Durham Hall, 32
+242, Durham Hall, 9
+281, Durham Hall, 13
+285, Durham Hall, 7
+373, Durham Hall, 50
+B40, Dietrick Hall, 0
+1024A, Derring Hall, 33
+1065, Derring Hall, 15
+1096, Derring Hall, 26
+2020, Derring Hall, 25
+3004, Derring Hall, 33
+3040, Derring Hall, 30
+3045, Derring Hall, 24
+3094, Derring Hall, 28
+5092, Derring Hall, 24
+219, Davidson Hall, 24
+219A, Davidson Hall, 4
+221, Davidson Hall, 20
+102, Cpap [Neily Building] [Thomas-Conner House], 19
+105, Cpap [Neily Building] [Thomas-Conner House], 19
+113, Cpap [Neily Building] [Thomas-Conner House], 13
+101, Cowgill Hall, 21
+101A, Cowgill Hall, 0
+101B, Cowgill Hall, 5
+102, Cowgill Hall, 20
+102A, Cowgill Hall, 0
+205, Cowgill Hall, 71
+301, Cowgill Hall, 24
+302, Cowgill Hall, 21
+303, Cowgill Hall, 14
+304, Cowgill Hall, 36
+305, Cowgill Hall, 42
+306, Cowgill Hall, 34
+400, Cowgill Hall, 53
+401, Cowgill Hall, 64
+402, Cowgill Hall, 46
+403, Cowgill Hall, 20
+404, Cowgill Hall, 20
+405, Cowgill Hall, 54
+406, Cowgill Hall, 54
+101, College Of Liberal Arts And Human Sciences Building, 10
+102, College Of Liberal Arts And Human Sciences Building, 6
+104, College Of Liberal Arts And Human Sciences Building, 30
+105, College Of Liberal Arts And Human Sciences Building, 53
+204, College Of Liberal Arts And Human Sciences Building, 42
+5, College Of Liberal Arts And Human Sciences Building, 20
+217, Cheatham Hall, 27
+317C, Cheatham Hall, 34
+117, Ce Structural Testing Lab, 15
+224, Burruss Hall, 24
+226, Burruss Hall, 15
+226A, Burruss Hall, 10
+228, Burruss Hall, 18
+232F, Burruss Hall, 34
+232G, Burruss Hall, 18
+000B, Burchard Hall, 66
+000C, Burchard Hall, 59
+000D, Burchard Hall, 79
+001, Burchard Hall, 18
+007, Burchard Hall, 20
+011, Burchard Hall, 5
+017, Burchard Hall, 10
+021, Burchard Hall, 33
+027, Burchard Hall, 12
+102, Burchard Hall, 9
+106, Burchard Hall, 12
+121, Burchard Hall, 13
+127, Burchard Hall, 7
+103, Building 270k [Uav / Hyperloop Classroom-Office], 0
+109, Building 1770, 19
+1001, Building 1341, 4
+1005, Building 1341, 5
+1032, Building 1341, 31
+A, Branch Building, 20
+310, Bishop-Favrao Hall, 39
+320, Bishop-Favrao Hall, 18
+323, Bishop-Favrao Hall, 12
+330, Bishop-Favrao Hall, 40
+410, Bishop-Favrao Hall, 34
+423, Bishop-Favrao Hall, 11
+430, Bishop-Favrao Hall, 4
+1, Beef Cattle Reproduction Shed, 33
+100, Art And Design Learning Center, 35
+100C, Art And Design Learning Center, 3
+104, Art And Design Learning Center, 11
+108, Art And Design Learning Center, 20
+108C, Art And Design Learning Center, 2
+112, Art And Design Learning Center, 12
+114, Art And Design Learning Center, 12
+105, Armory, 18
+100, Architecture Demonstration And Research Facility, 25
+01, Architecture Annex, 27
+02, Architecture Annex, 15
+05, Architecture Annex, 4
+107, Architecture Annex, 14
+200, Architecture Annex, 12
+107, Andrews Information Systems Building, 20
+1340, Ambler Johnston Hall - East Wing, 48
+1406, Ambler Johnston Hall - East Wing, 21
+2325, Ambler Johnston Hall - East Wing, 42
+101, Alphin-Stuart Arena, 20
+2, Alexandria Architecture Center Ii, 0
+2, Alexandria Architecture Center, 0
+101, Airport Hangar, 3

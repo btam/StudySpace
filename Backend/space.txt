@@ -1,0 +1,218 @@
+120, Williams Hall, 60
+134, Williams Hall, 46
+209, Williams Hall, 30
+220, Williams Hall, 60
+320, Williams Hall, 48
+334, Williams Hall, 48
+257, Whittemore Hall, 48
+277, Whittemore Hall, 48
+281, Whittemore Hall, 28
+300, Whittemore Hall, 200
+349, Whittemore Hall, 47
+124, War Memorial Gymnasium, 60
+126, War Memorial Gymnasium, 28
+219, War Memorial Gymnasium, 48
+234, Wallace Hall, 42
+244, Wallace Hall, 40
+340, Wallace Hall, 49
+407, Wallace Hall, 32
+M106, Vt / Carilion Medical School And Research Institute, 1
+M203, Vt / Carilion Medical School And Research Institute, 1
+M303, Vt / Carilion Medical School And Research Institute, 181
+M332, Vt / Carilion Medical School And Research Institute, 36
+1000, Torgersen Hall, 38
+1010, Torgersen Hall, 60
+1020, Torgersen Hall, 44
+1030, Torgersen Hall, 40
+1040, Torgersen Hall, 45
+1050, Torgersen Hall, 38
+1060, Torgersen Hall, 98
+1080, Torgersen Hall, 35
+2150, Torgersen Hall, 300
+3100, Torgersen Hall, 150
+103A, Surge Space Building, 70
+104A, Surge Space Building, 107
+104B, Surge Space Building, 126
+104C, Surge Space Building, 126
+104D, Surge Space Building, 104
+107, Surge Space Building, 96
+109, Surge Space Building, 78
+117A, Surge Space Building, 100
+118B, Surge Space Building, 80
+118C, Surge Space Building, 140
+A11, Steger Center [Villa Maderni], 1
+A12, Steger Center [Villa Maderni], 1
+201, Squires Student Center, 622
+146, Smyth Hall, 130
+232, Smyth Hall, 40
+331, Smyth Hall, 49
+207, Seitz Hall, 34
+300, Seitz Hall, 70
+313, Seitz Hall, 60
+408, Saunders Hall, 32
+409, Saunders Hall, 89
+101, Robeson Hall, 48
+103, Robeson Hall, 42
+105, Robeson Hall, 72
+112, Robeson Hall, 49
+116, Robeson Hall, 35
+122, Robeson Hall, 44
+210, Robeson Hall, 128
+110, Randolph Hall, 42
+116, Randolph Hall, 42
+120, Randolph Hall, 42
+121, Randolph Hall, 35
+129, Randolph Hall, 49
+206, Randolph Hall, 36
+206A, Randolph Hall, 32
+208, Randolph Hall, 40
+209, Randolph Hall, 36
+210, Randolph Hall, 36
+211, Randolph Hall, 36
+212, Randolph Hall, 36
+216, Randolph Hall, 34
+220, Randolph Hall, 43
+221, Randolph Hall, 80
+222, Randolph Hall, 40
+316, Randolph Hall, 36
+318, Randolph Hall, 44
+320, Randolph Hall, 45
+331, Randolph Hall, 64
+12, Patton Hall, 30
+207, Patton Hall, 48
+215, Patton Hall, 48
+1001, Pamplin Hall, 36
+1002, Pamplin Hall, 34
+1003, Pamplin Hall, 42
+1004, Pamplin Hall, 40
+1008, Pamplin Hall, 40
+1010, Pamplin Hall, 34
+2001, Pamplin Hall, 32
+2002, Pamplin Hall, 34
+2003, Pamplin Hall, 49
+2028, Pamplin Hall, 40
+2030, Pamplin Hall, 94
+30, Pamplin Hall, 106
+3001, Pamplin Hall, 40
+3004, Pamplin Hall, 40
+3008, Pamplin Hall, 44
+3010, Pamplin Hall, 30
+3028, Pamplin Hall, 42
+31, Pamplin Hall, 64
+32, Pamplin Hall, 64
+100, Mcbryde Hall, 540
+113, Mcbryde Hall, 92
+126, Mcbryde Hall, 49
+129, Mcbryde Hall, 88
+134, Mcbryde Hall, 40
+202, Mcbryde Hall, 25
+204, Mcbryde Hall, 28
+207, Mcbryde Hall, 15
+209, Mcbryde Hall, 49
+210, Mcbryde Hall, 28
+212, Mcbryde Hall, 21
+216, Mcbryde Hall, 34
+218, Mcbryde Hall, 40
+219, Mcbryde Hall, 24
+223, Mcbryde Hall, 30
+224, Mcbryde Hall, 40
+226, Mcbryde Hall, 40
+230, Mcbryde Hall, 40
+231, Mcbryde Hall, 40
+232, Mcbryde Hall, 40
+233, Mcbryde Hall, 35
+238, Mcbryde Hall, 40
+240, Mcbryde Hall, 40
+302, Mcbryde Hall, 36
+304, Mcbryde Hall, 40
+307, Mcbryde Hall, 43
+308, Mcbryde Hall, 39
+316, Mcbryde Hall, 35
+318, Mcbryde Hall, 40
+321, Mcbryde Hall, 45
+322, Mcbryde Hall, 39
+328, Mcbryde Hall, 38
+329, Mcbryde Hall, 39
+332, Mcbryde Hall, 41
+658, Mcbryde Hall, 20
+666, Mcbryde Hall, 20
+334, Major Williams Hall, 36
+434, Major Williams Hall, 30
+532, Major Williams Hall, 20
+1670, Litton-Reaves Hall, 254
+1760, Litton-Reaves Hall, 57
+1770, Litton-Reaves Hall, 40
+1800, Litton-Reaves Hall, 45
+1860, Litton-Reaves Hall, 64
+1870, Litton-Reaves Hall, 121
+320, Lavery Hall, 75
+330, Lavery Hall, 75
+335, Lavery Hall, 48
+340, Lavery Hall, 75
+345, Lavery Hall, 48
+350, Lavery Hall, 75
+100, Johnston Student Center, 60
+102, Johnston Student Center, 52
+104, Johnston Student Center, 52
+204, Hutcheson Hall, 48
+207, Hutcheson Hall, 30
+209, Hutcheson Hall, 48
+310, Hutcheson Hall, 48
+409, Hutcheson Hall, 48
+110, Holden Hall, 55
+114, Holden Hall, 39
+190, Holden Hall, 112
+212, Holden Hall, 33
+303, Holden Hall, 18
+100, Hancock Hall, 330
+130, Hahn Hall - North Wing, 201
+140, Hahn Hall - North Wing, 197
+64, Graduate Life Center At Donaldson Brown, 546
+115, Goodwin Hall, 84
+125, Goodwin Hall, 84
+135, Goodwin Hall, 84
+145, Goodwin Hall, 72
+155, Goodwin Hall, 72
+190, Goodwin Hall, 296
+241, Goodwin Hall, 28
+244, Goodwin Hall, 36
+27, Food Science And Technology Laboratory, 68
+219, Engel Hall, 35
+223, Engel Hall, 132
+261, Durham Hall, 61
+1076, Derring Hall, 48
+1084, Derring Hall, 31
+1090, Derring Hall, 48
+3081, Derring Hall, 70
+3083, Derring Hall, 70
+3092, Derring Hall, 49
+125, Davidson Hall, 30
+201, Davidson Hall, 30
+281, Davidson Hall, 315
+301, Davidson Hall, 36
+325, Davidson Hall, 26
+110A, Classroom Building, 40
+110B, Classroom Building, 40
+120, Classroom Building, 99
+130A, Classroom Building, 40
+130B, Classroom Building, 40
+160, Classroom Building, 140
+170, Classroom Building, 80
+210, Classroom Building, 72
+220, Classroom Building, 99
+230, Classroom Building, 72
+250, Classroom Building, 76
+260A, Classroom Building, 76
+260B, Classroom Building, 76
+270, Classroom Building, 72
+310, Classroom Building, 36
+320, Classroom Building, 144
+330, Classroom Building, 36
+350, Classroom Building, 36
+360, Classroom Building, 152
+370, Classroom Building, 36
+116, Burruss Hall, 30
+123A, Burruss Hall, 25
+07, Architecture Annex, 60
+109, Architecture Annex, 36
+114, Architecture Annex, 39

@@ -1,6 +1,7 @@
 package com.example.studyspace;
 
 import android.app.FragmentTransaction;
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
@@ -87,14 +88,12 @@ public class MainActivity extends AppCompatActivity
         int id = item.getItemId();
 
         if (id == R.id.nav_buildings) {
-            Fragment fragment = new BuildingsFragment();
-            android.support.v4.app.FragmentTransaction ft = getSupportFragmentManager().beginTransaction();
-            ft.replace(R.id.content_frame, fragment).commit();
+            Intent intent = new Intent(this, BuildingsActivity.class);
+            startActivity(intent);
 
         } else if (id == R.id.nav_alerts) {
-            Fragment fragment = new AlertsFragment();
-            android.support.v4.app.FragmentTransaction ft = getSupportFragmentManager().beginTransaction();
-            ft.replace(R.id.content_frame, fragment).commit();
+            Intent intent = new Intent(this, AlertsActivity.class);
+            startActivity(intent);
 
         }
 
